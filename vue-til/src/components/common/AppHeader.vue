@@ -1,11 +1,13 @@
 <template>
-	<div></div>
+	<div>header</div>
 </template>
 
 <script>
-export default {
-	name: 'AppHeader',
-};
+import Demo from '../../demo/basic/Demo'
+import Demo from '@/demo/basic/Demo'
+// import Demo from '@/demo/basic/Demo'
+
+export default {};
 </script>
 
-<style scoped></style>
+<style></style>
